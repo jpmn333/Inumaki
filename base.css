@@ -1,4 +1,4 @@
- .app-2rEoOp {
+.app-2rEoOp {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://i.imgur.com/dl5utiy.jpg);
   background-size: cover;
   border: 1px;
@@ -246,7 +246,7 @@
 }
 
 .defaultValue-3gC7yw .markValue-2DwdXI {
-  color: #43b581 !important;
+  color: #171717 !important;
 }
 
 .theme-dark .gameNameInput-385LoS:focus,
@@ -816,7 +816,7 @@
 .quickswitcher-3JagVE {
   border-radius: 14px;
   box-shadow: none;
-  background: linear-gradient(30deg, rgba(38, 120, 45, 0.82) 40%, rgba(0, 0, 0 , 0.7049194677871149) 75%);
+  background: linear-gradient(30deg, rgba(17, 17, 17, 0.82) 40%, rgba(0, 0, 0 , 0.7049194677871149) 75%);
   color: white;
 }
 
@@ -845,7 +845,7 @@
 .theme-dark .keybindShortcut-1BD6Z1 span:active {
   box-shadow: none;
   border: none;
-  background: rgba(141, 160, 224, 0.80);
+  background: rgba(17, 17, 17, 0.80);
 }
 
 .theme-dark .keybindShortcutTipsSelect-HDyfe8:last-of-type:before {
@@ -1004,7 +1004,7 @@
 }
 
 .tabBar-ZmDY9v .item-3HknzM[style*="background-color"] {
-  background-color: rgb(28, 118, 77) !important;
+  background-color: rgb(17, 17, 17) !important;
   color: white !important;
 }
 
@@ -1116,7 +1116,7 @@
 }
 
 .theme-dark .tooltipRed-8-9NeP .tooltipPointer-3ZfirK {
-  border-top-color: red;
+  border-top-color: #595959;
 }
 
 .childWrapper-anI2G9 {
@@ -1402,8 +1402,8 @@
 
 .wrapper-2jXpOf.modeLocked-SZJhTy .name-23GUGE,
 .wrapper-2jXpOf.modeLocked-SZJhTy .icon-1DeIlz {
-  color: green;
-  text-shadow: 0 0 12px green, 0 0 12px green, 0 0 12px green;
+  color: black;
+  text-shadow: 0 0 12px black, 0 0 12px black, 0 0 12px black;
   opacity: 0.8;
   overflow: visible;
 }
@@ -1781,7 +1781,7 @@
 
 .lowMotionItem-1DvHia,
 .wanderingCubesItem-WPXqao {
-  background-color: #5eadea;
+  background-color: #242424;
   width: 14px;
   border-radius: 10px;
   height: 14px;
@@ -1792,7 +1792,7 @@
 .mediaBarProgress-1xaPtl:after,
 .mediaBarProgress-1xaPtl:before,
 .mediaBarInteraction-37i2O4:hover .mediaBarGrabber-1FqnbN {
-  background-color: #5eadea;
+  background-color: #242424;
 }
 
 .progress-3Rbvu0[style*="background-color: rgb(233, 231, 231);"] {
@@ -1800,7 +1800,7 @@
 }
 
 .small-1CUeBa[style*="background-color: rgb(0, 0, 0 );"] {
-  background-color: #5eadea !important;
+  background-color: #242424 !important;
 }
 
 .theme-dark .attachment-33OFj0,
@@ -1872,12 +1872,12 @@
 .lookInverted-2D7oAl.colorBrand-3pXr91 {
   color: white;
   background-color: transparent;
-  border: 2px solid #4570e6;
+  border: 2px solid #171717;
 }
 
 .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
   color: white;
-  background-color: #4570e6 !important;
+  background-color: #171717 !important;
 }
 
 .lookInverted-2D7oAl.colorGreen-29iAKY {
