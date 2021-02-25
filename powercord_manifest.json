@@ -1,0 +1,9 @@
+{
+    "name": "",
+    "description": "",
+    "version": "1",
+    "author": "Trator de Jacare #3219",
+    "theme": ".theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
