@@ -1,9 +1,9 @@
 {
-    "name": "",
-    "description": "",
+    "name": "Inumaki-Senpai",
+    "description": "Best jujutsu character theme.",
     "version": "1",
     "author": "Trator de Jacare #3219",
-    "theme": ".theme.css",
+    "theme": "Inumaki.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"
 }
