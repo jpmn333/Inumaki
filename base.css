@@ -2474,46 +2474,60 @@
     border-radius: 20px;
 }
 
-{
-    background: rgba(0, 0, 0 , 0.5) !important;
-}
 .nicknames-1XK4Zt{
     color: #ffffff;
 }
+
 .theme-dark .perksModal-fSYqOq{
     background-color: rgba( 17, 17, 17, .5);
 }
+
 .theme-dark .ctaBar-2UsjF2{
     background-image: url(https://i.pinimg.com/originals/8c/86/ba/8c86ba058fc14cf1de0dc899f8dab32c.jpg);
 }
+
 .ctaBar-2UsjF2{
     background-color: #242424 !important;
 }
+
 .barForeground-3KglC8{
     background-color: #171717;
 }
+
 .tierMarkerAccomplished-2MiXeg,{
     background-color: #242424;
 }
+
 .tierMarkerLabelPlusIcon-1OS7E9{
     color: #cccccc;
 }
+
 .anchor-3Z-8Bb{
     color: #868686;
 }
+
 .theme-dark .icon-QVoPRH, .theme-light .icon-QVoPRH{
     color: #171717;  
 } 
+
 .badgeIconWithSubscribers-3PlMu9{
     color: #171717;
 }
+
 .wrapper-3nSjSv{
     background: linear-gradient(90deg,#242424,#171717) no-repeat;
 }
+
 .wrapper-3nSjSv:before{
     background-image: url(https://i.imgur.com/1557zBq.png);
     background-size: 100px 100px;
 }
+
+.cardWarning-2yPNAa{
+  background-color: #242424;
+  border-color: #171717;
+}
+
 #app-mount .content-1o0f9g{
     background-color: black;
 }
