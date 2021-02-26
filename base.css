@@ -20,7 +20,7 @@
 }
 
 .theme-dark .children-19S4PO:after {
-  background: rgba(0, 0, 0 , 0.5) !important;
+  background: transparent !important;
 }
 
 .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
@@ -1130,10 +1130,6 @@
 
 .guildSeparator-3s64Iy {
   background-color: transparent;
-}
-
-.children-19S4PO:after {
-  background: rgba(0, 0, 0 , 0.5) !important;
 }
 
 .folderIconWrapper-226oVY {
@@ -2477,7 +2473,8 @@
     background: rgba(0, 0, 0 , 0.5);
     border-radius: 20px;
 }
-.children-19S4PO:after {
+
+{
     background: rgba(0, 0, 0 , 0.5) !important;
 }
 .nicknames-1XK4Zt{
