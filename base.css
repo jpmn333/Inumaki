@@ -2430,8 +2430,14 @@
   background-color: rgba(230, 230, 230, .05);
 }
 
+.replying-1x3H0T:hover {
+  background-color: rgba(230, 230, 230, .05);
+}
+
 .colorStandard-2KCXvj {
   color: #ffffff;
+}.replying-1x3H0T:hover{
+    background-color: rgba(230, 230, 230, 0.05);
 }
 
 .search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {
