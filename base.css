@@ -1484,8 +1484,7 @@
   box-shadow: none;
 }
 
-.theme-dark .messagesPopoutWrap-1MQ1bW,
-.container-enaOkj {
+.theme-dark .messagesPopoutWrap-1MQ1bW, .container-enaOkj{
   background: linear-gradient(135deg, #171717 0%, #808080 51%, #171717 100%);
   border: none;
   box-shadow: none;
