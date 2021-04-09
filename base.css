@@ -1134,7 +1134,7 @@
 
 .folder-21wGz3{
   background-color: transparent;
-  
+
 }
 .folderIconWrapper-226oVY {
   border-radius: 0px;
@@ -2511,8 +2511,8 @@
 }
 
 .theme-dark .icon-QVoPRH, .theme-light .icon-QVoPRH{
-    color: #171717;  
-} 
+    color: #171717;
+}
 
 .badgeIconWithSubscribers-3PlMu9{
     color: #171717;
@@ -2533,6 +2533,14 @@
 }
 .border-3dQmSY.speaking-WDn8Wm{
   box-shadow: 0 0 3px 1px rgb(0, 0, 0 ), 0 0 3px 1px rgb(0, 0, 0 ), 0 0 3px 1px rgb(0, 0, 0 );
+}
+svg.homeIcon-FuNwkv{
+    color:transparent;
+}
+.homeIcon-FuNwkv{
+    background-image: url("https://i.imgur.com/1557zBq.png");
+    background-size: cover;
+    background-position: center;
 }
 #app-mount .content-1o0f9g{
     background-color: black;
