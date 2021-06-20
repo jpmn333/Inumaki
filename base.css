@@ -2551,6 +2551,9 @@ svg.homeIcon-FuNwkv{
 .wrapper-3D2qGf:hover{
     background-color: rgba(0, 0, 0, 0.5) !important;
 }
+.bd-switch input:checked+.bd-switch-body{
+  --switch-color: transparent;
+}
 #app-mount .content-1o0f9g{
     background-color: black;
 #bd-pub-button{
